@@ -1,0 +1,3 @@
+
+enow  ; eta ; form 1 ; male ; 20000 ; False
+tutu ; mumu ; 3 ; male ; f2535611-c4fd-4ac7-bbfc-74febecda83e ; 30000
